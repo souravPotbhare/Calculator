@@ -1,8 +1,8 @@
 # Calculator
-made BMI calculator using HTML, CSS and JavaScript with nodejs
+Normal Calc & BMI Calc using HTML CSS and Node
 
 # for now there are only 2 Calculators 
 1. Normal Addition Calculator
 2. Bmi Calculator
 
-# I will try to add more types of Calculator as and when I get the time
+# I will try to add more types of Calculators as and when I get the time
